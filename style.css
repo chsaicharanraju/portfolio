@@ -84,3 +84,12 @@ body {
     column-gap: 10px;
 
 }
+.profileimg{
+     border: 3px solid black;
+    border-radius: 5000px;
+   display: flex;
+  right: 10px;
+ margin: 4px;
+overflow: hidden;
+margin-bottom: 5px;
+}
